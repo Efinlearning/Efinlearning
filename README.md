@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about learning and sharing knowledg
 
 ## 📫 Connect with Me
 
-- [Email](mailto:email@example.com)
+- [Email](mailto:efinlearning@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/efinlearning/)
 - [Twitter](https://twitter.com/efinlearning)
 
@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm passionate about learning and sharing knowledg
 
 Here are a few of my notable projects:
 
-- [**Project 1**](https://github.com/Efinlearning/project1): A web application that does amazing things.
+- [**Project 1**](https://github.com/Efinlearning/Algo): A web application that does amazing things.
 - [**Project 2**](https://github.com/Efinlearning/project2): An open-source tool for data analysis.
-- [**Project 3**](https://github.com/Efinlearning/project3): A fun game built with JavaScript.
+- [**Project 3**](https://github.com/Efinlearning/Algo Extension): A fun game built with JavaScript.
 
 Feel free to explore my repositories and contribute if you find something interesting. Let's learn and grow together!
 
