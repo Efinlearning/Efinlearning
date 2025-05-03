@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about learning and sharing knowledg
 - 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue.js.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [care.efinlearning@outlook.com]
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Technologies & Tools
