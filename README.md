@@ -1,4 +1,3 @@
-Certainly! Here is a template for a profile README for a GitHub user named Efinlearning. You can customize it further based on your preferences and the specifics of your projects and experiences.
 
 ```markdown
 # Hi there 👋, I'm Efinlearning!
